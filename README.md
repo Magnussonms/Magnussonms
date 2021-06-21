@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Magnussonms
 - 👀 I’m interested in T-pattern detection and analysis
 - 🌱 I’m currently learning the latest in program development
-- 💞️ I’m looking to collaborate on component writing and software testing and distribution
+- 💞️ I’m looking to collaborate on component writing, software testing and distribution
 - 📫 How to reach me is through magnussonms@gmail.com
 
 <!---
